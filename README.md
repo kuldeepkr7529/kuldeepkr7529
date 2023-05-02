@@ -1,7 +1,7 @@
 # kuldeepkr7529# 
 
 💫 About Me:<br>Hi 👋, I'm Kuldeep Kumar Mahto<br>A self-motivated, hard-working, and ambitious Web Developer with proficiency in Java, JavaScript, HTML, and CSS. Problem-solving mindset and the ability to perform well in collaboration<br><br>🔭 I’m currently Studying Full-stack Web Development.<br><br>🌱 I’m currently learning Java AND MySQL.<br><br>💬 Ask me about HTML, CSS, JavaScript, Java, and MySQL.<br><br>📫 How to reach me kuldeepkumar3599@gmail.com<br><br>📄 Know about my experiences 1. https://drive.google.com/file/d/1ET0rhvxm1nmQee_FK5S6OZdzaIprg3Zv/view?usp=share_link
-2. https://kuldeepkr7529.github.io/ <br><br>⚡ Fun fact: As a Software developer spend more time learning as compared to others.
+            2. https://kuldeepkr7529.github.io/ <br><br>⚡ Fun fact: As a Software developer spend more time learning as compared to others.
 
 
 ## 🌐 Socials:
